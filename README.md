@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Me chamo <a href="https://www.linkedin.com/in/pedro-henrique-a3331719a/"><i>Pedro Henrique</i></a> e vc esta na minha central de códigos 😃️</h1>
-  <p align="center">Estudo sobre o Desenvolvimento Web FullStack JAVA pela  <a href="https://brazil.generation.org/"><i>GenerationBrasil</i></a> e aqui você vai encontrar tarefas projetos e muito mais, fique avontade e vamos nessa 😉️ <a 
+  <h1 align="center">Me chamo <a href="https://www.linkedin.com/in/pedro-henrique-a3331719a/"><i>Pedro Henrique</i></a> seja bem vinde 😃️</h1>
+  <p align="center">Estudando Desenvolvimento Web Java FullStack pela  <a href="https://brazil.generation.org/"><i>GenerationBrasil</i></a> e aqui você vai encontrar tarefas projetos e muito mais, fique avontade e vamos nessa 😉️ <a 
 </div>
 
 </h1>
