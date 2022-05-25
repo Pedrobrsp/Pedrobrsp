@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Me chamo <a href="https://www.linkedin.com/in/pedro-henrique-a3331719a/"><i>Pedro Henrique</i></a> seja bem vinde 😃️</h1>
+  <h1 align="center">Me chamo <a href="https://www.linkedin.com/in/pedro-henrique-dsg/"><i>Pedro Henrique</i></a> seja bem vinde 😃️</h1>
   <p align="center">Estudando Desenvolvimento Web Java FullStack pela  <a href="https://brazil.generation.org/"><i>GenerationBrasil</i></a> e aqui você vai encontrar tarefas projetos e muito mais, fique avontade e vamos nessa 😉️ <a 
 </div>
 
@@ -31,7 +31,7 @@
 
  <a href = "mailto:pedrohenrique.silvagomes23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/pedro-henrique-a3331719a//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-dsg//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
